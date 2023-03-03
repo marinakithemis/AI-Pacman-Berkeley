@@ -1,4 +1,4 @@
-# AI-Pacman-Berkeley ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jstegiks.KenKen_puzzle&right_color=red)
+# AI-Pacman-Berkeley 
 
 ![pac2](https://user-images.githubusercontent.com/100947042/222802129-bfdcdc36-aaa9-40e3-ae21-ef11c7fc5f5a.png)
 
